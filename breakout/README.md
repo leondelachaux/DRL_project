@@ -1,7 +1,7 @@
 # Breakout
 
 
-Each experiment has a notebook and a .py file.
+Each experiment has a notebook and a .py file, except the Python script to run A2C.
 
 breakout_a2c is the experiment of training an A2C agent to solve the Breakout environment.
 
